@@ -2,6 +2,6 @@
     "title": "cy12",
     "subTitle": "我是cy12，分享c++知识",
     "avatarUrl": "https://avatars.githubusercontent.com/u/238244597?v=4",
-    "GMEEK_VERSION": "last",
-    "code": "#include < iostream >\nusing namespace std;\nint main()\n{\n    cout<< \"hello world\" ;\n}"
+     "code": "#include < iostream >\nusing namespace std;\nint main()\n{\n    cout<< \"hello world\" ;\n}",
+    "GMEEK_VERSION": "last"
 }
