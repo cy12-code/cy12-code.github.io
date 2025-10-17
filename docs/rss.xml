@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     cout&lt;&lt; "hello world" ;
-}</description><copyright>cy12</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/238244597?v=4</url><title>avatar</title><link>https://cy12-code.github.io</link></image><lastBuildDate>Fri, 17 Oct 2025 12:58:59 +0000</lastBuildDate><managingEditor>cy12</managingEditor><ttl>60</ttl><webMaster>cy12</webMaster><item><title>cy12</title><link>https://cy12-code.github.io/post/cy12.html</link><description>### 我是cy12
+}</description><copyright>cy12</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/238244597?v=4</url><title>avatar</title><link>https://cy12-code.github.io</link></image><lastBuildDate>Fri, 17 Oct 2025 16:46:15 +0000</lastBuildDate><managingEditor>cy12</managingEditor><ttl>60</ttl><webMaster>cy12</webMaster><item><title>cy12</title><link>https://cy12-code.github.io/post/cy12.html</link><description>### 我是cy12
 以后的代码将通过此网站发布
 ```cpp
 #include &lt; iostream &gt;
@@ -13,13 +13,4 @@ int main()
 {
     cout&lt;&lt; 'hello world' ;
 }
-```。</description><guid isPermaLink="true">https://cy12-code.github.io/post/cy12.html</guid><pubDate>Fri, 17 Oct 2025 12:55:23 +0000</pubDate></item><item><title>cy12编程</title><link>https://cy12-code.github.io/post/cy12-bian-cheng.html</link><description>### 我是cy12
-以后的代码将通过此网站发布
-```cpp
-#include &lt; iostream &gt;
-using namespace std;
-int main()
-{
-    cout&lt;&lt; 'hello world' ;
-}
-```。</description><guid isPermaLink="true">https://cy12-code.github.io/post/cy12-bian-cheng.html</guid><pubDate>Wed, 15 Oct 2025 13:30:10 +0000</pubDate></item></channel></rss>
+```。</description><guid isPermaLink="true">https://cy12-code.github.io/post/cy12.html</guid><pubDate>Fri, 17 Oct 2025 12:55:23 +0000</pubDate></item></channel></rss>
