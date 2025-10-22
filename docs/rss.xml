@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>cy12</title><link>https://cy12-code.github.io</link><description>我是cy12，分享c++知识,我的qq：3903402699</description><copyright>cy12</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/238244597?v=4</url><title>avatar</title><link>https://cy12-code.github.io</link></image><lastBuildDate>Sun, 19 Oct 2025 10:24:41 +0000</lastBuildDate><managingEditor>cy12</managingEditor><ttl>60</ttl><webMaster>cy12</webMaster><item><title>数组1</title><link>https://cy12-code.github.io/post/shu-zu-1.html</link><description>### 数组是c++中常用且很重要的数据结构
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>cy12</title><link>https://cy12-code.github.io</link><description>我是cy12，分享c++知识,我的qq：3903402699</description><copyright>cy12</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/238244597?v=4</url><title>avatar</title><link>https://cy12-code.github.io</link></image><lastBuildDate>Wed, 22 Oct 2025 11:15:54 +0000</lastBuildDate><managingEditor>cy12</managingEditor><ttl>60</ttl><webMaster>cy12</webMaster><item><title>数组2-应用</title><link>https://cy12-code.github.io/post/shu-zu-2--ying-yong.html</link><description>### 这是一道较难的数组应用题，将有两种做法
+#### 题目
+小明对黄金分割比
+
+。</description><guid isPermaLink="true">https://cy12-code.github.io/post/shu-zu-2--ying-yong.html</guid><pubDate>Wed, 22 Oct 2025 11:15:20 +0000</pubDate></item><item><title>数组1</title><link>https://cy12-code.github.io/post/shu-zu-1.html</link><description>### 数组是c++中常用且很重要的数据结构
 
 #### 标准格式
 
