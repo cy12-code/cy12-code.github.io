@@ -129,7 +129,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <h4>完整代码</h4>
 <div class="highlight highlight-source-c++"><pre class="notranslate">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>bits/stdc++.h<span class="pl-pds">&gt;</span></span>
 <span class="pl-k">using</span> <span class="pl-k">namespace</span> <span class="pl-en">std</span><span class="pl-k">;</span>
-<span class="pl-k">int</span> n,a[<span class="pl-c1">100001</span>] = {};
+<span class="pl-k">long</span> <span class="pl-k">long</span> n,a[<span class="pl-c1">100001</span>] = {};
 <span class="pl-k">int</span> i=<span class="pl-c1">2</span>;
 <span class="pl-k">void</span> <span class="pl-en">list</span>()
 {
@@ -148,8 +148,9 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <span class="pl-k">for</span>(<span class="pl-k">int</span> j = <span class="pl-c1">1</span>;j &lt;= n;j++)
     {
         sum += a[i];
+        sum = sum%<span class="pl-c1">32767</span>; <span class="pl-c"><span class="pl-c">//</span>在过程中取模</span>
     }
-    cout &lt;&lt; sum;
+    cout &lt;&lt; sum%<span class="pl-c1">32767</span>;<span class="pl-c"><span class="pl-c">//</span>结尾取模</span>
 }</pre></div>
 <h5>代码将不断更新</h5></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
